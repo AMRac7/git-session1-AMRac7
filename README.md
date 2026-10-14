@@ -1,7 +1,9 @@
 ![Image](assets/project-banner.svg)
+# Report is inside assets
 # AMRac7
 # This assignment is for Software CSC3324 lab
 # Tools used : VsCode , Git , Git-Hub
+
 
 # Code Block:
  
