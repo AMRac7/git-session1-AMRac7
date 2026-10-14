@@ -4,6 +4,7 @@
 
 # Code Block:
  
+```csharp
  privte bool Code_Block(int num)
  {
     int x = 0;
@@ -15,7 +16,7 @@
     }
     return false;
 }
-
+```
 # Link:
 https://www.youtube.com/watch?v=CEz4HWdyEMo
 
