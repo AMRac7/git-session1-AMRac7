@@ -1,3 +1,4 @@
+![Image](assets/project-banner.svg)
 # AMRac7
 # This assignment is for Software CSC3324 lab
 # Tools used : VsCode , Git , Git-Hub
@@ -20,4 +21,3 @@
 # Link:
 https://www.youtube.com/watch?v=CEz4HWdyEMo
 
-![Image](assets/project-banner.svg)
