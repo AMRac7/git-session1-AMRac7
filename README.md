@@ -21,8 +21,4 @@
 # Link:
 https://www.youtube.com/watch?v=CEz4HWdyEMo
 
-REMOTE CHANGE AAAAAAAAAAAAAAAAAAAGH
-
-UNSTAGED DIFF
-
 ![Image](assets/New_Image.png)
